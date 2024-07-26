@@ -22,8 +22,14 @@ Este é um jogo da velha simples implementado em Java. O jogo permite que dois j
 - Se todas as posições forem preenchidas sem um vencedor, a partida termina em empate.
 
 ## Como Jogar
-
-1. Compile o código-fonte:
+1. Clone o repositório:
+    ```sh
+    git clone https://github.com/juanmatias1/jogo-da-velha.git
+    ```
+    ```sh
+    cd jogo-da-velha
+    ```
+3. Compile o código-fonte:
     ```sh
     javac JogoDaVelha.java
     ```
